@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a796439205116c04594686443b74bb3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - can: {instanceID: 0}
+  - bloksesi: {instanceID: 0}
+  - morefect: {instanceID: 0}
+  - "art\u0131h\u0131z": {instanceID: 0}
+  - hediye: {instanceID: 0}
+  - "art\u0131boyut": {instanceID: 0}
+  - yavas: {instanceID: 0}
+  - "k\xFCc\xFCk": {instanceID: 0}
+  - kiriksp: {fileID: 21300000, guid: c69fe2fc95703114ebc8e4cb4ebd1143, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

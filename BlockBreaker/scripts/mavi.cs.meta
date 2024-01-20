@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b9e87f8feb964744a1af4e42a79fa40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - renkk: {fileID: 2100000, guid: dd85d25d310a8b146a41057070c19357, type: 2}
+  - can: {instanceID: 0}
+  - bloksesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

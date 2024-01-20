@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: af0379d25a28bff42ac6be7f68730ff5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yesilefect: {fileID: 7893054574864482486, guid: 045da3466e4d5b844a64de71e4fcecd4, type: 3}
+  - bloksesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

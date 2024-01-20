@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 56a38d8f514afbe42b066534d64e9484
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - top: {instanceID: 0}
+  - puanyazi: {instanceID: 0}
+  - topobje: {instanceID: 0}
+  - playerobje: {instanceID: 0}
+  - bloklar: {instanceID: 0}
+  - kazandikyazisi: {instanceID: 0}
+  - maviefect: {fileID: 7893054574864482486, guid: ef2b10a9957b13b40a5b7ce6d3774291, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
